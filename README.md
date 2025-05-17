@@ -1,5 +1,7 @@
 # hackthehaze-fullstack-image-scraper
 
+Name- Swayam Sidgor
+email = swayamsidgor@gmail.com
 link - https://image-scraperr.netlify.app/
 
 # 🖼️ Image Scraper
