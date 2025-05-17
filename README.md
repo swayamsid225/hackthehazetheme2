@@ -52,15 +52,38 @@ cd backend
 npm install
 
 ```
-## 📸 Output Images
+<h3>Output Images</h3>
 
-<p float="left">
-  <img src="images/Screenshot%202025-05-17%20172606.png" width="250"/>
-  <img src="images/Screenshot%202025-05-17%20172621.png" width="250"/>
-  <img src="images/Screenshot%202025-05-17%20172910.png" width="250"/>
-  <img src="images/Screenshot%202025-05-17%20173000.png" width="250"/>
-  <img src="images/Screenshot%202025-05-17%20173026.png" width="250"/>
-  <img src="images/Screenshot%202025-05-17%20173039.png" width="250"/>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <strong>Output Image</strong><br>
+      <img src="images/Screenshot 2025-05-17 172606.png" width="200">
+    </td>
+    <td align="center">
+      <strong>Download in Zip</strong><br>
+      <img src="images/Screenshot 2025-05-17 172621.png" width="200">
+    </td>
+    <td align="center">
+      <strong>Multiple Links</strong><br>
+      <img src="images/Screenshot 2025-05-17 172910.png" width="200">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Link History</strong><br>
+      <img src="images/Screenshot 2025-05-17 173000.png" width="200">
+    </td>
+    <td align="center">
+      <strong>Mobile View</strong><br>
+      <img src="images/Screenshot 2025-05-17 173026.png" width="200">
+    </td>
+    <td align="center">
+      <strong>Responsive</strong><br>
+      <img src="images/Screenshot 2025-05-17 173039.png" width="200">
+    </td>
+  </tr>
+</table>
+
 
 
