@@ -52,6 +52,17 @@ cd backend
 npm install
 
 ```
+## 📸 Output Images
+
+<p float="left">
+  <img src="images/Screenshot%202025-05-17%20172606.png" width="250"/>
+  <img src="images/Screenshot%202025-05-17%20172621.png" width="250"/>
+  <img src="images/Screenshot%202025-05-17%20172910.png" width="250"/>
+  <img src="images/Screenshot%202025-05-17%20173000.png" width="250"/>
+  <img src="images/Screenshot%202025-05-17%20173026.png" width="250"/>
+  <img src="images/Screenshot%202025-05-17%20173039.png" width="250"/>
+</p>
+
 
 ### Output Images
 
