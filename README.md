@@ -64,12 +64,3 @@ npm install
 </p>
 
 
-### Output Images
-
-![Output Image](images/Screenshot 2025-05-17 172606.png)
-![Download in Zip](images/Screenshot 2025-05-17 172621.png)
-![Multiple Links](images/Screenshot 2025-05-17 172910.png)
-![Link History](images/Screenshot 2025-05-17 173000.png)
-![Mobile View](images/Screenshot 2025-05-17 173026.png)
-![Responsive](images/Screenshot 2025-05-17 173039.png)
-
